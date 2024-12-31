@@ -1,0 +1,15 @@
+name: SoulPrecls
+version: '${project.version}'
+main: org.example1.soulprecls.SoulPrecls
+api-version: '1.16'
+commands:
+  pvesea:
+    permission: soulitems
+    permission-message: "нононо етат плагин писал бухой астип"
+    description: выдает пве штууку
+    usage: /pvesea
+  enderframe:
+    permission: soulitems
+    permission-message: "нононо етат плагин писал бухой астип"
+    description: выдает рамку портала в энд
+    usage: /enderframe
